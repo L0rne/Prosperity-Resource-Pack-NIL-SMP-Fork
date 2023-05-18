@@ -148,7 +148,7 @@ There are also some items that can be obtained by renaming a vanilla item at an 
 | Carved Pumpkin    | Steampunk Goggles           | `96561`  |
 | Carved Pumpkin    | Servo Skull                 | `96562`  |
 | Carved Pumpkin    | Iron Servitor               | `96563`  |
-
+| Carved Pumpkin    | Witch Hat                   | `96564`  |
 
 ### Anvil Renaming
 
@@ -216,6 +216,7 @@ Unfortunately the `CustomModelData` feature is quite limited and can only be app
 
 [Servo Skull Texture](https://www.planetminecraft.com/mob-skin/servo-skull/)
 
+[Witch Hat] BlueFlameFae
 
 ### Weapons and Tools From
 

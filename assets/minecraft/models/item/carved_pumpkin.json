@@ -345,6 +345,12 @@
             "custom_model_data":96563
          },
          "model":"item/l0rn3/iron_servitor"
+      },
+      {
+         "predicate":{
+            "custom_model_data":96564
+         },
+         "model":"item/ghost_in_blue/witchhat"
       }
    ]
 }
